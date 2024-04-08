@@ -36,4 +36,4 @@ Asegúrate de tener Node.js instalado en tu sistema. Luego, puedes clonar este r
 Para iniciar el servidor de desarrollo, ejecuta el siguiente comando:
 
 ```bash
-npm start
+npm run dev
