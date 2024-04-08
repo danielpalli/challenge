@@ -2,7 +2,7 @@
 
 # Challenge 
 
-Descripción corta del proyecto.
+Crear una versión funcional pero simplificada de la página de reserva siguiendo el flujo proporcionado en los diseños. La tarea se centrará en desarrollar la interfaz de usuario y las interacciones necesarias para realizar una reserva.
 
 ## Tabla de Contenidos
 
@@ -36,4 +36,4 @@ Asegúrate de tener Node.js instalado en tu sistema. Luego, puedes clonar este r
 Para iniciar el servidor de desarrollo, ejecuta el siguiente comando:
 
 ```bash
-npm start
+npm run dev
