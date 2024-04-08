@@ -11,8 +11,6 @@ Crear una versión funcional pero simplificada de la página de reserva siguiend
 
 ## Instalación
 
-Asegúrate de tener Node.js instalado en tu sistema. Luego, puedes clonar este repositorio y seguir estos pasos:
-
 1. **Clona el repositorio:**
 
     ```bash
@@ -33,7 +31,7 @@ Asegúrate de tener Node.js instalado en tu sistema. Luego, puedes clonar este r
 
 ## Uso
 
-Para iniciar el servidor de desarrollo, ejecuta el siguiente comando:
+Para iniciar el servidor:
 
 ```bash
 npm run dev
